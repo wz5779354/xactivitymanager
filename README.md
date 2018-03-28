@@ -1,1 +1,2 @@
 # xactivitymanager
+获取应用中的当前的Activity,除了dialogActivity
